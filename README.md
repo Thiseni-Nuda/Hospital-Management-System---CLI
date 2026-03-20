@@ -21,7 +21,7 @@ This system consists of 8 main modules, each utilizing a specific data structure
 ## 👥 Contributors
 * Malaka Prsad | @prasad-liy22  - Project Lead & Pharmacy Inventory
 * [Member 2 Name] - OPD Waiting System
-* [Member 3 Name] - Ward Navigation & Management
+* Thiseni Nudara | @Thiseni-Nuda - Ward Navigation & Management
 * [Member 4 Name] - ICU Bed Management
 * [Member 5 Name] - Patient Treatment Sequence
 * [Member 6 Name] - Round-Robin Duty Rosters
